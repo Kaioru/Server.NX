@@ -9,3 +9,6 @@
 3. ```chmod u+x ./package.sh```
 4. ```./package.sh```
 5. the bundled NX package will be found at `bin/`
+
+### On Windows
+3. Run ```package.bat```
