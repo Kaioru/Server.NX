@@ -1,0 +1,278 @@
+[
+  {
+    "item": 2000000,
+    "price": 50,
+    "stock": 1000000
+  },
+  {
+    "item": 2000001,
+    "price": 160,
+    "stock": 1000000
+  },
+  {
+    "item": 2002021,
+    "price": 2800,
+    "stock": 10000
+  },
+  {
+    "item": 2002022,
+    "price": 2100,
+    "stock": 10000
+  },
+  {
+    "item": 2002023,
+    "price": 3800,
+    "stock": 10000
+  },
+  {
+    "item": 2002024,
+    "price": 1500,
+    "stock": 10000
+  },
+  {
+    "item": 2002025,
+    "price": 1500,
+    "stock": 10000
+  },
+  {
+    "item": 2010000,
+    "price": 30,
+    "stock": 1000000
+  },
+  {
+    "item": 2010002,
+    "price": 50,
+    "stock": 1000000
+  },
+  {
+    "item": 2010001,
+    "price": 106,
+    "stock": 1000000
+  },
+  {
+    "item": 2010003,
+    "price": 100,
+    "stock": 1000000
+  },
+  {
+    "item": 2010004,
+    "price": 310,
+    "stock": 1000000
+  },
+  {
+    "item": 2000002,
+    "price": 320,
+    "stock": 1000000
+  },
+  {
+    "item": 2022189,
+    "price": 1000,
+    "stock": 10000
+  },
+  {
+    "item": 2022191,
+    "price": 1000,
+    "stock": 10000
+  },
+  {
+    "item": 2022192,
+    "price": 600,
+    "stock": 10000
+  },
+  {
+    "item": 2022003,
+    "price": 1100,
+    "stock": 1000000
+  },
+  {
+    "item": 2022000,
+    "price": 1650,
+    "stock": 1000000
+  },
+  {
+    "item": 2001000,
+    "price": 3200,
+    "stock": 1000000
+  },
+  {
+    "item": 2001001,
+    "price": 2300,
+    "stock": 1000000
+  },
+  {
+    "item": 2001002,
+    "price": 4000,
+    "stock": 1000000
+  },
+  {
+    "item": 2022190,
+    "price": 3000,
+    "stock": 10000
+  },
+  {
+    "item": 2020012,
+    "price": 4500,
+    "stock": 1000000
+  },
+  {
+    "item": 2000003,
+    "price": 200,
+    "stock": 1000000
+  },
+  {
+    "item": 2020013,
+    "price": 5600,
+    "stock": 1000000
+  },
+  {
+    "item": 2020014,
+    "price": 8100,
+    "stock": 1000000
+  },
+  {
+    "item": 2020015,
+    "price": 10200,
+    "stock": 1000000
+  },
+  {
+    "item": 2022195,
+    "price": 15000,
+    "stock": 10000
+  },
+  {
+    "item": 2030000,
+    "price": 400,
+    "stock": 100000
+  },
+  {
+    "item": 2060000,
+    "price": 1,
+    "stock": 9999999
+  },
+  {
+    "item": 2061000,
+    "price": 1,
+    "stock": 9999999
+  },
+  {
+    "item": 2070000,
+    "price": 500,
+    "stock": 100000,
+    "unitPrice": 0.4
+  },
+  {
+    "item": 2070001,
+    "stock": 100000,
+    "unitPrice": 0.5
+  },
+  {
+    "item": 2070002,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2000006,
+    "price": 620,
+    "stock": 1000000
+  },
+  {
+    "item": 2070003,
+    "stock": 100000,
+    "unitPrice": 0.7
+  },
+  {
+    "item": 2070004,
+    "stock": 100000,
+    "unitPrice": 0.7
+  },
+  {
+    "item": 2070005,
+    "stock": 100000,
+    "unitPrice": 0.8
+  },
+  {
+    "item": 2070006,
+    "stock": 100000,
+    "unitPrice": 0.9
+  },
+  {
+    "item": 2070007,
+    "stock": 100000,
+    "unitPrice": 1.1
+  },
+  {
+    "item": 2070008,
+    "stock": 100000,
+    "unitPrice": 1.1
+  },
+  {
+    "item": 2070009,
+    "stock": 100000,
+    "unitPrice": 1.1
+  },
+  {
+    "item": 2070010,
+    "stock": 100000,
+    "unitPrice": 1.1
+  },
+  {
+    "item": 2070011,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2002016,
+    "price": 5000,
+    "stock": 10000
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2002017,
+    "price": 5000,
+    "stock": 10000
+  },
+  {
+    "item": 2002018,
+    "price": 5000,
+    "stock": 10000
+  },
+  {
+    "item": 2002019,
+    "price": 5000,
+    "stock": 10000
+  },
+  {
+    "item": 2002020,
+    "price": 2800,
+    "stock": 10000
+  }
+]

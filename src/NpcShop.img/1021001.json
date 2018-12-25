@@ -1,0 +1,387 @@
+[
+  {
+    "item": 1002043,
+    "price": 2400,
+    "stock": 100
+  },
+  {
+    "item": 1002039,
+    "price": 2700,
+    "stock": 100
+  },
+  {
+    "item": 1040037,
+    "price": 5500,
+    "stock": 100
+  },
+  {
+    "item": 1040012,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1040039,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1040040,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1040016,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1040041,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1040021,
+    "price": 40000,
+    "stock": 100
+  },
+  {
+    "item": 1040026,
+    "price": 40000,
+    "stock": 100
+  },
+  {
+    "item": 1041014,
+    "price": 3200,
+    "stock": 100
+  },
+  {
+    "item": 1041064,
+    "price": 3200,
+    "stock": 100
+  },
+  {
+    "item": 1002051,
+    "price": 3500,
+    "stock": 100
+  },
+  {
+    "item": 1041019,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1041020,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1041021,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1041022,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1041023,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1041024,
+    "price": 16000,
+    "stock": 100
+  },
+  {
+    "item": 1050005,
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "item": 1050006,
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "item": 1050007,
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "item": 1050011,
+    "price": 70000,
+    "stock": 100
+  },
+  {
+    "item": 1002055,
+    "price": 8700,
+    "stock": 100
+  },
+  {
+    "item": 1051000,
+    "price": 8000,
+    "stock": 100
+  },
+  {
+    "item": 1051010,
+    "price": 60000,
+    "stock": 100
+  },
+  {
+    "item": 1051011,
+    "price": 60000,
+    "stock": 100
+  },
+  {
+    "item": 1051012,
+    "price": 60000,
+    "stock": 100
+  },
+  {
+    "item": 1051013,
+    "price": 60000,
+    "stock": 100
+  },
+  {
+    "item": 1060008,
+    "price": 3000,
+    "stock": 100
+  },
+  {
+    "item": 1060028,
+    "price": 3000,
+    "stock": 100
+  },
+  {
+    "item": 1060009,
+    "price": 5000,
+    "stock": 100
+  },
+  {
+    "item": 1060027,
+    "price": 5000,
+    "stock": 100
+  },
+  {
+    "item": 1060010,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1002059,
+    "price": 8500,
+    "stock": 100
+  },
+  {
+    "item": 1060029,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1060011,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1060030,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1060060,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1060016,
+    "price": 38000,
+    "stock": 100
+  },
+  {
+    "item": 1060017,
+    "price": 38000,
+    "stock": 100
+  },
+  {
+    "item": 1060018,
+    "price": 38000,
+    "stock": 100
+  },
+  {
+    "item": 1060019,
+    "price": 38000,
+    "stock": 100
+  },
+  {
+    "item": 1061014,
+    "price": 3000,
+    "stock": 100
+  },
+  {
+    "item": 1061023,
+    "price": 3000,
+    "stock": 100
+  },
+  {
+    "item": 1002027,
+    "price": 11500,
+    "stock": 100
+  },
+  {
+    "item": 1061016,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1061017,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1061018,
+    "price": 9000,
+    "stock": 100
+  },
+  {
+    "item": 1061015,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1061019,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1061020,
+    "price": 14000,
+    "stock": 100
+  },
+  {
+    "item": 1072009,
+    "price": 5000,
+    "stock": 100
+  },
+  {
+    "item": 1072050,
+    "price": 5000,
+    "stock": 100
+  },
+  {
+    "item": 1072007,
+    "price": 10000,
+    "stock": 100
+  },
+  {
+    "item": 1072046,
+    "price": 10000,
+    "stock": 100
+  },
+  {
+    "item": 1002005,
+    "price": 19000,
+    "stock": 100
+  },
+  {
+    "item": 1072047,
+    "price": 10000,
+    "stock": 100
+  },
+  {
+    "item": 1072011,
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "item": 1092005,
+    "price": 4000,
+    "stock": 100
+  },
+  {
+    "item": 1092000,
+    "price": 6000,
+    "stock": 100
+  },
+  {
+    "item": 2070000,
+    "stock": 100000,
+    "unitPrice": 0.3
+  },
+  {
+    "item": 2070001,
+    "stock": 100000,
+    "unitPrice": 0.4
+  },
+  {
+    "item": 2070002,
+    "stock": 100000,
+    "unitPrice": 0.5
+  },
+  {
+    "item": 2070003,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2070004,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2070005,
+    "stock": 100000,
+    "unitPrice": 0.7
+  },
+  {
+    "item": 1040015,
+    "price": 3200,
+    "stock": 100
+  },
+  {
+    "item": 2070006,
+    "stock": 100000,
+    "unitPrice": 0.8
+  },
+  {
+    "item": 2070007,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070008,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070009,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070010,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070011,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 1040038,
+    "price": 3200,
+    "stock": 100
+  },
+  {
+    "item": 1040009,
+    "price": 5500,
+    "stock": 100
+  }
+]

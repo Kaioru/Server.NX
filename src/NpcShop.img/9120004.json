@@ -1,0 +1,93 @@
+[
+  {
+    "item": 1050100,
+    "price": 30000,
+    "stock": 10000000
+  },
+  {
+    "item": 2030008,
+    "price": 400,
+    "stock": 10000000
+  },
+  {
+    "item": 2070006,
+    "stock": 100000,
+    "unitPrice": 0.8
+  },
+  {
+    "item": 2070007,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070008,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070009,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070010,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070011,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070012,
+    "stock": 100000,
+    "unitPrice": 0.8
+  },
+  {
+    "item": 2070013,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2030009,
+    "price": 500,
+    "stock": 10000000
+  },
+  {
+    "item": 2030010,
+    "price": 500,
+    "stock": 10000000
+  },
+  {
+    "item": 2070000,
+    "price": 500,
+    "stock": 100000,
+    "unitPrice": 0.3
+  },
+  {
+    "item": 2070001,
+    "stock": 100000,
+    "unitPrice": 0.4
+  },
+  {
+    "item": 2070002,
+    "stock": 100000,
+    "unitPrice": 0.5
+  },
+  {
+    "item": 2070003,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2070004,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2070005,
+    "stock": 100000,
+    "unitPrice": 0.7
+  }
+]

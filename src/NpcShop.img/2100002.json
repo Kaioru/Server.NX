@@ -1,0 +1,142 @@
+[
+  {
+    "item": 1302008,
+    "price": 40000,
+    "stock": 10000
+  },
+  {
+    "item": 1312005,
+    "price": 40000,
+    "stock": 10000
+  },
+  {
+    "item": 1432002,
+    "price": 60000,
+    "stock": 10000
+  },
+  {
+    "item": 1442001,
+    "price": 60000,
+    "stock": 10000
+  },
+  {
+    "item": 1452005,
+    "price": 150000,
+    "stock": 10000
+  },
+  {
+    "item": 1462000,
+    "price": 30000,
+    "stock": 10000
+  },
+  {
+    "item": 1472001,
+    "price": 20000,
+    "stock": 10000
+  },
+  {
+    "item": 2070000,
+    "stock": 100000,
+    "unitPrice": 0.3
+  },
+  {
+    "item": 2070001,
+    "stock": 100000,
+    "unitPrice": 0.4
+  },
+  {
+    "item": 2070002,
+    "stock": 100000,
+    "unitPrice": 0.5
+  },
+  {
+    "item": 2070003,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 2070004,
+    "stock": 100000,
+    "unitPrice": 0.6
+  },
+  {
+    "item": 1322014,
+    "price": 40000,
+    "stock": 10000
+  },
+  {
+    "item": 2070005,
+    "stock": 100000,
+    "unitPrice": 0.7
+  },
+  {
+    "item": 2070006,
+    "stock": 100000,
+    "unitPrice": 0.8
+  },
+  {
+    "item": 2070007,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070008,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070009,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070010,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070011,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 2070016,
+    "stock": 100000,
+    "unitPrice": 1.0
+  },
+  {
+    "item": 1332009,
+    "price": 42000,
+    "stock": 10000
+  },
+  {
+    "item": 1332012,
+    "price": 40000,
+    "stock": 10000
+  },
+  {
+    "item": 1372003,
+    "price": 38000,
+    "stock": 10000
+  },
+  {
+    "item": 1382002,
+    "price": 20000,
+    "stock": 10000
+  },
+  {
+    "item": 1402002,
+    "price": 150000,
+    "stock": 10000
+  },
+  {
+    "item": 1412006,
+    "price": 45000,
+    "stock": 10000
+  },
+  {
+    "item": 1422001,
+    "price": 45000,
+    "stock": 10000
+  }
+]

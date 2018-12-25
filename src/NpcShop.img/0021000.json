@@ -1,0 +1,67 @@
+[
+  {
+    "item": 1040002,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1040006,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1061008,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1072001,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1072005,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1040010,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1041002,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1041006,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1041010,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1041011,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1060002,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1060006,
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "item": 1061002,
+    "price": 50,
+    "stock": 100
+  }
+]
