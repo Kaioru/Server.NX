@@ -12,3 +12,4 @@
 
 ### On Windows
 3. Run ```package.bat```
+4. the bundled NX package will be found at `bin/`
