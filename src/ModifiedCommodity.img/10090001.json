@@ -1,0 +1,13 @@
+{
+    "itemId": 5222000,
+    "count": 1,
+    "priority": 100,
+    "price": 20000,
+    "bonus": 0,
+    "period": 1,
+    "reqPOP": 0,
+    "reqLEV": 0,
+    "premium": false,
+    "gender": 2,
+    "onSale": true
+}
