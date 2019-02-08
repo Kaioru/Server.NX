@@ -1,0 +1,23 @@
+{
+  "field": {
+    "endFieldID": 222020200,
+    "endShipMoveFieldID": 222020200,
+    "moveFieldID": 222020111,
+    "startShipMoveFieldID": 222020100,
+    "waitFieldID": 222020110
+  },
+  "info": "엘리베이터 2층 -> 99층",
+  "reactor": {
+    "name": "elevator",
+    "stateOnEnd": 0,
+    "stateOnStart": 1
+  },
+  "scheduler": {
+    "tDelay": 2,
+    "tTerm": 4
+  },
+  "time": {
+    "tRequired": 1,
+    "tWait": 1
+  }
+}

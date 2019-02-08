@@ -1,0 +1,17 @@
+{
+  "field": {
+    "endFieldID": 103000100,
+    "endShipMoveFieldID": 103000100,
+    "moveFieldID": 600010003,
+    "startShipMoveFieldID": 600010001,
+    "waitFieldID": 600010002
+  },
+  "info": "NLC -> KC",
+  "scheduler": {
+    "tTerm": 5
+  },
+  "time": {
+    "tRequired": 1,
+    "tWait": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "field": {
+    "endFieldID": 220000100,
+    "endShipMoveFieldID": 220000110,
+    "moveFieldID": 200090100,
+    "startShipMoveFieldID": 200000121,
+    "waitFieldID": 200000122
+  },
+  "info": "오르비스 -> 루디브리엄",
+  "scheduler": {
+    "tTerm": 10
+  },
+  "time": {
+    "tRequired": 5,
+    "tWait": 5
+  }
+}

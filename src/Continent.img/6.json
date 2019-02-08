@@ -1,0 +1,17 @@
+{
+  "field": {
+    "endFieldID": 240000100,
+    "endShipMoveFieldID": 240000110,
+    "moveFieldID": 200090200,
+    "startShipMoveFieldID": 200000131,
+    "waitFieldID": 200000132
+  },
+  "info": "오르비스 -> 리프레",
+  "scheduler": {
+    "tTerm": 10
+  },
+  "time": {
+    "tRequired": 5,
+    "tWait": 5
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "field": {
+    "cabinFieldID": 200090001,
+    "endFieldID": 101000300,
+    "endShipMoveFieldID": 101000300,
+    "moveFieldID": 200090000,
+    "startShipMoveFieldID": 200000111,
+    "waitFieldID": 200000112
+  },
+  "genMob": {
+    "genMobItemID": 2100009,
+    "genMobPosition_x": -590,
+    "genMobPosition_y": -221
+  },
+  "info": "오르비스 -> 엘리니아",
+  "scheduler": {
+    "tTerm": 15
+  },
+  "time": {
+    "tEventEnd": 9,
+    "tRequired": 10,
+    "tWait": 5
+  }
+}
