@@ -4,7 +4,7 @@
     "endFieldID": 200000100,
     "endShipMoveFieldID": 200000111,
     "moveFieldID": 200090010,
-    "startShipMoveFieldID": 101000300,
+    "startShipMoveFieldID": 104020110,
     "waitFieldID": 101000301
   },
   "genMob": {
@@ -12,7 +12,7 @@
     "genMobPosition_x": 485,
     "genMobPosition_y": -221
   },
-  "info": "Ellinia -> Orbis",
+  "info": "Six Path Crossway -> Orbis",
   "scheduler": {
     "tTerm": 15
   },

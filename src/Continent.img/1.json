@@ -1,8 +1,8 @@
 {
   "field": {
     "cabinFieldID": 200090001,
-    "endFieldID": 101000300,
-    "endShipMoveFieldID": 101000300,
+    "endFieldID": 104020110,
+    "endShipMoveFieldID": 104020110,
     "moveFieldID": 200090000,
     "startShipMoveFieldID": 200000111,
     "waitFieldID": 200000112
@@ -12,7 +12,7 @@
     "genMobPosition_x": -590,
     "genMobPosition_y": -221
   },
-  "info": "Orbis -> Ellinia",
+  "info": "Orbis -> Six Path Crossway",
   "scheduler": {
     "tTerm": 15
   },
