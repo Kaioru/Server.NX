@@ -6,7 +6,7 @@
     "startShipMoveFieldID": 222020200,
     "waitFieldID": 222020210
   },
-  "info": "엘리베이터 99층 -> 2층",
+  "info": "Elevator 99th Floor -> 2nd Floor",
   "reactor": {
     "name": "elevator",
     "stateOnEnd": 0,

@@ -6,7 +6,7 @@
     "startShipMoveFieldID": 240000110,
     "waitFieldID": 240000111
   },
-  "info": "리프레 -> 오르비스",
+  "info": "Leafre -> Orbis",
   "scheduler": {
     "tTerm": 10
   },

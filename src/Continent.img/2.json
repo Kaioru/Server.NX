@@ -6,7 +6,7 @@
     "startShipMoveFieldID": 200000121,
     "waitFieldID": 200000122
   },
-  "info": "오르비스 -> 루디브리엄",
+  "info": "Orbis -> Ludibrium",
   "scheduler": {
     "tTerm": 10
   },
