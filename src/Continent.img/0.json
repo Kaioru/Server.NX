@@ -5,7 +5,7 @@
     "endShipMoveFieldID": 200000111,
     "moveFieldID": 200090010,
     "startShipMoveFieldID": 104020110,
-    "waitFieldID": 101000301
+    "waitFieldID": 104020111
   },
   "genMob": {
     "genMobItemID": 2100009,
