@@ -1,0 +1,19 @@
+{
+  "0": 925100500,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "The intimidating presence of the captian of the Pirate Ship, Lord Pirate, can be seen from afar.",
+      "action": 3,
+      "timeAfter": 10
+    },
+    "1": {
+      "0": 6,
+      "1": "Time's running out. Quickly dispatch all the monsters and move on to the next spot.",
+      "action": 3,
+      "timeAfter": 280
+    }
+  },
+  "script": "davy_mSummon6",
+  "timeOut": 480
+}

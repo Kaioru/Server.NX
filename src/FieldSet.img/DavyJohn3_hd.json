@@ -1,0 +1,22 @@
+{
+  "0": 925100202,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "The disciples of Lord pirate have arrived, all of them very adept at hiding.",
+      "5": 5,
+      "action": 3
+    },
+    "1": {
+      "0": 6,
+      "1": "Time's running out. Please leave this place immediately.",
+      "action": 3,
+      "timeAfter": 50
+    }
+  },
+  "party": {
+    "checkPartyOut": 1
+  },
+  "startEvent": 1,
+  "timeOut": 60
+}

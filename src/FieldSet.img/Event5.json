@@ -1,0 +1,82 @@
+{
+  "0": 109030401,
+  "1": 109030402,
+  "2": 109030403,
+  "event": {
+    "0": {
+      "0": 0,
+      "1": "join00",
+      "2": 1,
+      "action": 2,
+      "timeAfter": 0
+    },
+    "1": {
+      "0": 360,
+      "action": 1,
+      "timeAfter": 0
+    },
+    "10": {
+      "0": 0,
+      "1": "One minute. 1 minute",
+      "action": 3,
+      "timeAfter": 300
+    },
+    "11": {
+      "0": 0,
+      "1": "You have 10 sec. left. Those of you unable to beat the game, we hope you beat it next time! Great job, everyone!! See you later~",
+      "action": 3,
+      "timeAfter": 350
+    },
+    "12": {
+      "action": 4,
+      "timeAfter": 361
+    },
+    "2": {
+      "0": 0,
+      "1": "The portal has now opened. Press the up arrow key at the portal to enter.",
+      "action": 3,
+      "timeAfter": 1
+    },
+    "3": {
+      "0": 0,
+      "action": 1,
+      "timeAfter": 1
+    },
+    "4": {
+      "0": 0,
+      "1": "Ola Ola consists of 3 levels of stage, and there's only one portal that'll take you to the next level. Other portals are either not open, or will take you to a strange place, so you need to be careful choosing the right portal.",
+      "action": 3,
+      "timeAfter": 30
+    },
+    "5": {
+      "0": 0,
+      "1": "Please remember the fake portals; that way you won't have to go through it again. Good luck!",
+      "action": 3,
+      "timeAfter": 60
+    },
+    "6": {
+      "0": 0,
+      "1": "Everyone that clears Ola Ola on time wil be given an item, regardless of the order of finish, so just relax, take your time, and select the correct portals.",
+      "action": 3,
+      "timeAfter": 90
+    },
+    "7": {
+      "0": 0,
+      "1": "The number of portals will increase as you move up the level.",
+      "action": 3,
+      "timeAfter": 120
+    },
+    "8": {
+      "0": 0,
+      "1": "We're halfway through the time-limit. Please carefully choose the correct portal.",
+      "action": 3,
+      "timeAfter": 180
+    },
+    "9": {
+      "0": 0,
+      "1": "You have 2 minutes left. If you're on level 1, then please hurry!!",
+      "action": 3,
+      "timeAfter": 240
+    }
+  }
+}

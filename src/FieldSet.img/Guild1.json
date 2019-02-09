@@ -1,0 +1,218 @@
+{
+  "0": 990000000,
+  "1": 990000100,
+  "10": 990000431,
+  "11": 990000440,
+  "12": 990000500,
+  "13": 990000501,
+  "14": 990000502,
+  "15": 990000600,
+  "16": 990000610,
+  "17": 990000611,
+  "18": 990000620,
+  "19": 990000630,
+  "2": 990000200,
+  "20": 990000631,
+  "21": 990000640,
+  "22": 990000641,
+  "23": 990000700,
+  "24": 990000800,
+  "25": 990000900,
+  "3": 990000300,
+  "4": 990000301,
+  "5": 990000400,
+  "6": 990000401,
+  "7": 990000410,
+  "8": 990000420,
+  "9": 990000430,
+  "action": {
+    "11": {
+      "0": {
+        "info": {
+          "0": 5,
+          "1": "speargate",
+          "2": -1,
+          "type": 3
+        },
+        "spear1": 1
+      },
+      "1": {
+        "info": {
+          "0": 5,
+          "1": "speargate",
+          "2": -1,
+          "type": 3
+        },
+        "spear2": 1
+      },
+      "2": {
+        "info": {
+          "0": 5,
+          "1": "speargate",
+          "2": -1,
+          "type": 3
+        },
+        "spear3": 1
+      },
+      "3": {
+        "info": {
+          "0": 5,
+          "1": "speargate",
+          "2": -1,
+          "type": 3
+        },
+        "spear4": 1
+      }
+    },
+    "12": {
+      "0": {
+        "info": {
+          "0": "watergateopen",
+          "1": "yes",
+          "type": 4
+        },
+        "watergate": 1
+      }
+    },
+    "16": {
+      "0": {
+        "info": {
+          "0": "secretgate1open",
+          "1": "yes",
+          "type": 4
+        },
+        "secretgate1": 1
+      }
+    },
+    "19": {
+      "0": {
+        "info": {
+          "0": "secretgate2open",
+          "1": "yes",
+          "type": 4
+        },
+        "secretgate2": 1
+      }
+    },
+    "21": {
+      "0": {
+        "info": {
+          "0": "secretgate3open",
+          "1": "yes",
+          "type": 4
+        },
+        "secretgate3": 1
+      }
+    },
+    "24": {
+      "0": {
+        "info": {
+          "0": "kinggateopen",
+          "1": "yes",
+          "type": 4
+        },
+        "kinggate": 1
+      }
+    },
+    "25": {
+      "0": {
+        "boss": 1,
+        "info": {
+          "0": 25,
+          "1": "Bgm10/Eregos",
+          "type": 5
+        }
+      }
+    },
+    "5": {
+      "0": {
+        "info": {
+          "0": "speargateopen",
+          "1": "yes",
+          "type": 4
+        },
+        "speargate": 4
+      },
+      "1": {
+        "info": {
+          "0": "stonegateopen",
+          "1": "yes",
+          "type": 4
+        },
+        "stonegate": 1
+      },
+      "2": {
+        "info": {
+          "0": 0,
+          "1": 1000,
+          "2": 5,
+          "3": 7,
+          "4": 8,
+          "5": 9,
+          "6": 10,
+          "7": 11,
+          "type": 7
+        },
+        "speargate": 4
+      }
+    },
+    "9": {
+      "0": {
+        "info": {
+          "0": "metalgateopen",
+          "1": "yes",
+          "type": 4
+        },
+        "metalgate": 1
+      }
+    }
+  },
+  "event": {
+    "0": {
+      "0": 0,
+      "1": "join00",
+      "2": 0,
+      "action": 2,
+      "timeAfter": 1
+    },
+    "1": {
+      "0": 0,
+      "1": "The door to Sharenian will open in 3 minutes. Be prepared to enter the instance.",
+      "action": 3,
+      "timeAfter": 1
+    },
+    "2": {
+      "0": 0,
+      "1": "The door to Sharenian will open in 1 minute. Be prepared to enter the instance.",
+      "action": 3,
+      "timeAfter": 120
+    },
+    "3": {
+      "0": 0,
+      "1": "The door to Sharenian will open in 30 seconds. Be prepared to enter the instance.",
+      "action": 3,
+      "timeAfter": 150
+    },
+    "4": {
+      "0": 0,
+      "1": "The door to Sharenian has opened!",
+      "action": 3,
+      "timeAfter": 180
+    },
+    "5": {
+      "0": 0,
+      "1": "join00",
+      "2": 1,
+      "action": 2,
+      "timeAfter": 180
+    },
+    "6": {
+      "0": 7,
+      "1": "#e<Guild Quest Notice>#n\\n\\nSearch through the remains of the legendary Sharenian empire and find clues on #e#rRubian#k#n and its whereabouts. \\n\\n1.   The Guild Quest will be canceled if less than #r6#k Guild Members enter the instance before the door to Sharenian opens.\\n2.   During the Guild Quest, if the participating members of the guild reach below #r6#k, the quest will end prematurely. Good luck!",
+      "2": 9040011,
+      "action": 3,
+      "timeAfter": 120
+    }
+  },
+  "timeOut": 5580
+}

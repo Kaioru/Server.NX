@@ -1,0 +1,56 @@
+{
+  "0": 109010000,
+  "1": 109010100,
+  "10": 109010109,
+  "11": 109010110,
+  "12": 109010200,
+  "13": 109010201,
+  "14": 109010202,
+  "15": 109010203,
+  "16": 109010204,
+  "17": 109010205,
+  "18": 109010206,
+  "2": 109010101,
+  "3": 109010102,
+  "4": 109010103,
+  "5": 109010104,
+  "6": 109010105,
+  "7": 109010106,
+  "8": 109010107,
+  "9": 109010108,
+  "event": {
+    "0": {
+      "0": 0,
+      "1": "join00",
+      "2": 1,
+      "action": 2,
+      "timeAfter": 0
+    },
+    "1": {
+      "0": 600,
+      "action": 1,
+      "timeAfter": 0
+    },
+    "2": {
+      "0": 0,
+      "1": "The portal is now open. Please enter.",
+      "action": 3,
+      "timeAfter": 1
+    },
+    "3": {
+      "0": 0,
+      "action": 1,
+      "timeAfter": 1
+    },
+    "4": {
+      "0": 0,
+      "1": "The time limit for the Treasure Hunt has passed. The event has ended, and you'll be sent to a different map. Thank you for participating in this event!",
+      "action": 3,
+      "timeAfter": 600
+    },
+    "5": {
+      "action": 4,
+      "timeAfter": 601
+    }
+  }
+}

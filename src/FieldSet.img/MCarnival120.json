@@ -1,0 +1,41 @@
+{
+  "0": 980000300,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "You will receive invitations from other parties for the next 3 minutes.",
+      "action": 3,
+      "timeAfter": 3
+    },
+    "1": {
+      "0": 6,
+      "1": "The team that earns more Carnival Points (CP) in 10 minutes by defeating monsters will win the match.",
+      "action": 3,
+      "timeAfter": 15
+    },
+    "2": {
+      "0": 6,
+      "1": "You may select \"Summon Monsters\", \"Skill\", or \"Protector\" as your tactic during the Monster Carnival. Use Tab and F1~F12 for quicker access!",
+      "action": 3,
+      "timeAfter": 30
+    },
+    "3": {
+      "0": 6,
+      "1": "When in the Monster Carnival, you will not lose EXP upon death.",
+      "action": 3,
+      "timeAfter": 45
+    }
+  },
+  "party": {
+    "checkPartyOut": 1,
+    "levelMax": 50,
+    "levelMin": 30,
+    "memberMax": 4,
+    "memberMax_d": 6,
+    "memberMax_t": 4,
+    "memberMin": 2,
+    "memberMin_t": 2
+  },
+  "startEvent": 1,
+  "timeOut": 180
+}

@@ -1,0 +1,108 @@
+{
+  "0": 109040000,
+  "1": 109040001,
+  "2": 109040002,
+  "3": 109040003,
+  "4": 109040004,
+  "event": {
+    "0": {
+      "0": 0,
+      "1": "join00",
+      "2": 1,
+      "action": 2,
+      "timeAfter": 0
+    },
+    "1": {
+      "0": 900,
+      "action": 1,
+      "timeAfter": 0
+    },
+    "10": {
+      "0": 0,
+      "1": "Please remember that if you die during the event, you'll be eliminated from the game. If you're running out of HP, either take a potion or recover HP first before moving on.",
+      "action": 3,
+      "timeAfter": 400
+    },
+    "11": {
+      "0": 0,
+      "1": "For those of you with heavy lags, please make sure to move slowly to avoid falling all the way down because of lags.",
+      "action": 3,
+      "timeAfter": 540
+    },
+    "12": {
+      "0": 0,
+      "1": "The 3rd stage offers traps where you may see them, but you won't be able step on them. Please be careful of them as you make your way up.",
+      "action": 3,
+      "timeAfter": 600
+    },
+    "13": {
+      "0": 0,
+      "1": "The 4th stage is the last one for [The Maple Physical Fitness Test]. Please don't give up at the last minute and try your best. The reward is waiting for you at the very top!",
+      "action": 3,
+      "timeAfter": 660
+    },
+    "14": {
+      "0": 0,
+      "1": "Alright, you don't have much time remaining. Please hurry up a little!",
+      "action": 3,
+      "timeAfter": 800
+    },
+    "15": {
+      "0": 0,
+      "1": "You have 10 sec. left. Those of you unable to beat the game, we hope you beat it next time! Great job, everyone!! See you later~",
+      "action": 3,
+      "timeAfter": 890
+    },
+    "16": {
+      "action": 4,
+      "timeAfter": 901
+    },
+    "2": {
+      "0": 0,
+      "1": "The portal has now opened. Press the up arrow key at the portal to enter.",
+      "action": 3,
+      "timeAfter": 1
+    },
+    "3": {
+      "0": 0,
+      "action": 1,
+      "timeAfter": 1
+    },
+    "4": {
+      "0": 0,
+      "1": "[MapleStory Physical Fitness Test] consists of 4 stages, and if you happen to die during the game, you'll be eliminated from the game, so please be careful of that.",
+      "action": 3,
+      "timeAfter": 30
+    },
+    "5": {
+      "0": 0,
+      "1": "There may be a heavy lag due to many users being at stage 1 all at once. It won't be difficult, so please make sure not to fall down because of heavy lag.",
+      "action": 3,
+      "timeAfter": 60
+    },
+    "6": {
+      "0": 0,
+      "1": "Everyone that clears [The Maple Physical Fitness Test] on time will be given an item, regardless of the order of finish, so just relax, take your time, and clear the four stages.",
+      "action": 3,
+      "timeAfter": 120
+    },
+    "7": {
+      "0": 0,
+      "1": "Please remember that if you die during the event, you'll be eliminated from the game. You still have plenty of time left, so either take a potion or recover HP first before moving on.",
+      "action": 3,
+      "timeAfter": 200
+    },
+    "8": {
+      "0": 0,
+      "1": "The 2nd stage offers monkeys throwing bananas. Please make sure to avoid them by moving along at just the right timing.",
+      "action": 3,
+      "timeAfter": 240
+    },
+    "9": {
+      "0": 0,
+      "1": "The most important thing you'll need to know to avoid the bananas thrown by the monkeys is \"Timing.\" Timing is everything in this!",
+      "action": 3,
+      "timeAfter": 300
+    }
+  }
+}

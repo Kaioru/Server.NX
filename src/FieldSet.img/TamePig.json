@@ -1,0 +1,12 @@
+{
+  "0": 923010000,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "Please protect the pig from the aliens!",
+      "action": 3,
+      "timeAfter": 3
+    }
+  },
+  "timeOut": 300
+}

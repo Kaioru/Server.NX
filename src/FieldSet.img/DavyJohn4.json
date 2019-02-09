@@ -1,0 +1,24 @@
+{
+  "0": 925100300,
+  "1": 925100301,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "The enraged pirates are looking for strangers intruding the ship. You'll need to defeat all the pirates and run through the deck.",
+      "action": 3,
+      "timeAfter": 10
+    },
+    "1": {
+      "0": 6,
+      "1": "Time's running out. Quickly dispatch all the monsters and move on to the next spot.",
+      "action": 3,
+      "timeAfter": 280
+    }
+  },
+  "party": {
+    "checkPartyOut": 1
+  },
+  "script": "davy_mSummon4",
+  "startEvent": 1,
+  "timeOut": 360
+}

@@ -1,0 +1,115 @@
+{
+  "0": 109060000,
+  "event": {
+    "0": {
+      "0": 600,
+      "action": 1,
+      "timeAfter": 0
+    },
+    "1": {
+      "0": 0,
+      "1": "The Event has been started! You may start hitting on the snowball or the snowman now.",
+      "action": 3,
+      "timeAfter": 1
+    },
+    "10": {
+      "0": 0,
+      "1": "Please remember that if you die during the event, you'll be eliminated from the game. You still have plenty of time left, so either take a potion or recover HP first before moving on.",
+      "action": 3,
+      "timeAfter": 300
+    },
+    "11": {
+      "0": 0,
+      "1": "If neither team reaches the finish line on time, then the team who rolls the snowball closest to the end wins, so please don't give up!",
+      "action": 3,
+      "timeAfter": 360
+    },
+    "12": {
+      "0": 0,
+      "1": "The huge thorns near the finish line pops up from the ground and takes away a huge chunk of HP, so please beware of it while rolling the snowball.",
+      "action": 3,
+      "timeAfter": 420
+    },
+    "13": {
+      "0": 0,
+      "1": "Your attack will not work if you keep attacking while staying at one place. You'll have to move little by little while attacking the snowman or the snowball.",
+      "action": 3,
+      "timeAfter": 480
+    },
+    "14": {
+      "0": 0,
+      "1": "You'll return to the starting point once touched by the snowball, so please be careful while attacking.",
+      "action": 3,
+      "timeAfter": 540
+    },
+    "15": {
+      "0": 0,
+      "1": "You have 3 minutes left. Please don't give up!",
+      "action": 3,
+      "timeAfter": 590
+    },
+    "16": {
+      "0": 0,
+      "1": "If neither team reaches the finish line on time, then the team who rolls the snowball closest to the end wins, so please don't give up!",
+      "action": 3,
+      "timeAfter": 595
+    },
+    "17": {
+      "0": 0,
+      "1": "You have 1 min. left. If neither team reaches the finish line on time, then the team who rolls the snowball closest to the end wins, so please don't give up!",
+      "action": 3,
+      "timeAfter": 599
+    },
+    "18": {
+      "action": 5,
+      "timeAfter": 600
+    },
+    "2": {
+      "0": 0,
+      "action": 1,
+      "timeAfter": 1
+    },
+    "3": {
+      "0": 0,
+      "1": "Please remember that if you die during the event, you'll be eliminated from the game. You still have plenty of time left, so either take a potion or recover HP first before moving on.",
+      "action": 3,
+      "timeAfter": 30
+    },
+    "4": {
+      "0": 0,
+      "1": "Your attack will not work if you keep attacking while staying at one place. You'll have to move little by little while attacking the snowman or the snowball.",
+      "action": 3,
+      "timeAfter": 60
+    },
+    "5": {
+      "0": 0,
+      "1": "This is the game where overtaking the lead is very much possible. Please don’t give up now!",
+      "action": 3,
+      "timeAfter": 100
+    },
+    "6": {
+      "0": 0,
+      "1": "You'll return to the starting point once touched by the snowball, so please be careful while attacking.",
+      "action": 3,
+      "timeAfter": 160
+    },
+    "7": {
+      "0": 0,
+      "1": "Please beware of the thorns on the ground while attacking the snowball.",
+      "action": 3,
+      "timeAfter": 180
+    },
+    "8": {
+      "0": 0,
+      "1": "You'll be able to disrupt your opponent's snowball once you attack the snowman/",
+      "action": 3,
+      "timeAfter": 220
+    },
+    "9": {
+      "0": 0,
+      "1": "Your HP will decrease if touched by the snowman, so please be careful while attacking.",
+      "action": 3,
+      "timeAfter": 260
+    }
+  }
+}

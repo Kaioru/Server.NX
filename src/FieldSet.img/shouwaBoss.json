@@ -1,0 +1,45 @@
+{
+  "0": 801040004,
+  "1": 801040100,
+  "action": {
+    "1": {
+      "0": {
+        "info": {
+          "0": 1,
+          "1": "Bgm06/FinalFight",
+          "type": 5
+        },
+        "shouwaBoss": 1
+      },
+      "1": {
+        "info": {
+          "0": "shouwaBoss",
+          "1": "yes",
+          "type": 4
+        },
+        "shouwaBoss": 1
+      },
+      "2": {
+        "info": {
+          "0": 0,
+          "1": "gate",
+          "2": 1,
+          "type": 3
+        },
+        "shouwaBoss": 1
+      },
+      "3": {
+        "info": {
+          "0": 0,
+          "1": "gate",
+          "2": 0,
+          "type": 3
+        },
+        "shouwaBoss": 0
+      }
+    }
+  },
+  "unaffected": {
+    "0": 1
+  }
+}

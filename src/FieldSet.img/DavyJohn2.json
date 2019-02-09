@@ -1,0 +1,23 @@
+{
+  "0": 925100100,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "Guon is searching for fellow travelers.",
+      "action": 3,
+      "timeAfter": 10
+    },
+    "1": {
+      "0": 6,
+      "1": "Time's running out. Quickly complete your mission and move on to the next spot.",
+      "action": 3,
+      "timeAfter": 340
+    }
+  },
+  "party": {
+    "checkPartyOut": 1
+  },
+  "script": "davyJohn2_start",
+  "startEvent": 1,
+  "timeOut": 360
+}

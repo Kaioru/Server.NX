@@ -1,0 +1,30 @@
+{
+  "0": 925100000,
+  "event": {
+    "0": {
+      "0": 6,
+      "1": "The Pirate Ship is about to take off. Please defeat all the monsters within the time limit and hop on the ship.",
+      "action": 3,
+      "timeAfter": 3
+    },
+    "1": {
+      "0": 6,
+      "1": "Time's running out. Quickly dispatch all the monsters and hop on the Pirate Ship.",
+      "action": 3,
+      "timeAfter": 280
+    }
+  },
+  "party": {
+    "checkPartyOut": 1,
+    "levelMax": 100,
+    "levelMin": 55,
+    "levelMin_d": 55,
+    "levelMin_t": 55,
+    "memberMax_d": 6,
+    "memberMin": 3,
+    "memberMin_t": 6
+  },
+  "script": "davy_mSummon1",
+  "startEvent": 1,
+  "timeOut": 240
+}

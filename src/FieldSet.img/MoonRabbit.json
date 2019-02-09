@@ -1,0 +1,63 @@
+{
+  "0": 910010000,
+  "action": {
+    "0": {
+      "0": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower1": 1
+      },
+      "1": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower2": 1
+      },
+      "2": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower3": 1
+      },
+      "3": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower4": 1
+      },
+      "4": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower5": 1
+      },
+      "5": {
+        "info": {
+          "0": 0,
+          "1": "fullmoon",
+          "2": -1,
+          "type": 3
+        },
+        "moonflower6": 1
+      }
+    }
+  },
+  "script": "moonrabbit_start",
+  "timeOut": 600
+}
