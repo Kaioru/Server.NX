@@ -1,13 +1,13 @@
 {
-    "itemId": 1302000,
-    "count": 1,
-    "priority": 15,
-    "price": 1000,
-    "bonus": 0,
-    "period": 1,
-    "reqPOP": 0,
-    "reqLEV": 0,
-    "premium": false,
-    "gender": 2,
-    "onSale": true
+    "ItemId": 1302000,
+    "Count": 1,
+    "Priority": 15,
+    "Price": 1000,
+    "Bonus": 0,
+    "Period": 1,
+    "ReqPOP": 0,
+    "ReqLEV": 0,
+    "Premium": false,
+    "Gender": 2,
+    "OnSale": true
 }
